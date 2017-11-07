@@ -1,0 +1,9 @@
+myenv
+data.csv
+olx/spiders/__pycache__
+olx/spiders/__pycache__/__init__.cpython-36.pyc
+olx/spiders/__pycache__/electronics.cpython-36.pyc
+olx/items.pyc
+olx/__pycache__/settings.cpython-36.pyc
+olx/__pycache__/items.cpython-36.pyc
+olx/__pycache__/__init__.cpython-36.pyc
